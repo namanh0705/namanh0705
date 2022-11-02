@@ -3,8 +3,6 @@
 - 🔭 I’m currently working on fullstack web development
 - 🌱 I’m currently learning more and more Django, FastAPI, Reactjs.. to become software development experts
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/namanh0705/namanh0705/blob/main/devcard.svg" width="400" alt="Nam Anh Dev Card"/></a>
-
 ### Tech :muscle:
 
 
@@ -22,3 +20,6 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+### Favorite book
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/namanh0705/namanh0705/blob/main/devcard.svg" width="400" alt="Nam Anh Dev Card"/></a>
